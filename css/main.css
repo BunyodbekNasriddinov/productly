@@ -65,7 +65,7 @@ img {
 	line-height: 22px;
 	text-align: center;
 	color: #173a56;
-  background-color: #fff;
+	background-color: #fff;
 	border: 1px solid #bcd0e5;
 	border-radius: 4px;
 	cursor: pointer;
@@ -432,12 +432,13 @@ img {
 	font-weight: 400;
 	font-size: 16px;
 	line-height: 26px;
-	color: #2F281E;
+	color: #2f281e;
 	border: 1px solid transparent;
 	border-radius: 5px;
 }
 
 .user-name:focus {
+	color: #2f281e;
 	outline: #ff9900;
 	border: 1px solid #ff9900;
 }
@@ -510,20 +511,20 @@ img {
 	font-size: 20px;
 	line-height: 30px;
 	color: #2f281e;
-  margin-bottom: 15px;
+	margin-bottom: 15px;
 }
 
 .footer-nav-list {
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
 }
 
 /* .footer-nav-item {
 } */
 
 .footer-item-link {
-  text-decoration: none;
+	text-decoration: none;
 	font-weight: 400;
 	font-size: 16px;
 	line-height: 35px;
@@ -531,7 +532,7 @@ img {
 }
 
 .footer-item-link:hover {
-  color: #FF9900;
+	color: #ff9900;
 }
 
 /* Footer section end */

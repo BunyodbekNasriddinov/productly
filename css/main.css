@@ -106,8 +106,6 @@ img {
 
 .hero-img {
 	width: 642px;
-	background: url("/images/hero-bg.svg");
-	padding-bottom: 494px;
 }
 
 .get-started-btn {
@@ -504,8 +502,8 @@ img {
 	justify-content: space-around;
 }
 
-.footer-nav {
-}
+/* .footer-nav {
+} */
 
 .footer-nav-title {
 	font-weight: 600;
@@ -521,8 +519,8 @@ img {
   list-style-type: none;
 }
 
-.footer-nav-item {
-}
+/* .footer-nav-item {
+} */
 
 .footer-item-link {
   text-decoration: none;
